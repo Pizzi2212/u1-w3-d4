@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-image: url(../assets/red-2892235_1280.webp);
+    width: 100%;
+    background-size: 100%;
+    font-family: Dancing Script;
+    color: #ebebeb;
+    line-height: normal;
+}
+
+h1 {
+    font-size: 8em;
+}
+header {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.cell {
+    margin-left: 2em;
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    cursor: pointer;
+    background-image: url(../assets/merry-christmas-winter-scene-with-big-xmas-tree-small-people_331172-790.avif);
+    background-position: 100%;
+
+}
+
+.cell:hover {
+    background-color: #15132e;
+  }
+h3 {
+    color: red;
+  text-align: center;
+  font-size: 26px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+button {
+    background-image: url(../assets/merry-christmas-winter-scene-with-big-xmas-tree-small-people_331172-790.avif);
+    background-position: 70%;
+    border: transparent;
+    color: red;
+    font-size: 4em;
+margin-top: 2em;
+margin-bottom: 2em;
+border-radius: 90px;
+}
+
+.evidence {
+    background-image: url(../assets/photo-1663601398716-3d40cef5d1fc.jpeg);
+}
+
+
+
+
+
+
+
+
+
